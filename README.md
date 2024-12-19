@@ -64,10 +64,16 @@ Manually Installing Each Dependency
 If you prefer to install dependencies manually:
 
    pip install numpy
+   
    pip install pandas
+   
    pip install matplotlib
+   
    pip install seaborn
+   
    pip install tensorflow
+   
    pip install scikit-learn
+   
    pip install jupyter
 
